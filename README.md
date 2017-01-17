@@ -9,6 +9,7 @@ Ncurses – kontynuacja biblioteki curses z BSD. Dostarcza ona funkcji do obsłu
 Zasady gry:
 Rozgrywka "Boulder Dasha" toczy się na prostokątnej planszy, której pola są zorganizowane w wiersze i kolumny. Gracz steruje postacią Rockforda. Jego zadaniem jest zebranie wszystkich diamentów, które znajdują się na planszy i opuszczenie jej przez wyjście. Oprócz Rockforda, diamentów i wyjścia, na polach planszy są również: ziemia, skała lub kamień. Na każdym polu może być co najwyżej jeden z wymienionych obiektów.
 Rockford porusza się po planszy, przechodząc na jedno z czterech pól sąsiadujących w wierszu lub kolumnie z polem, na którym się znajduje. Może wejść na pole docelowe, jeżeli spełniony jest jeden z warunków:
+
 •	jest ono puste,
 •	jest na nim ziemia,
 •	jest na nim diament,

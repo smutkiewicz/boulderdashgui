@@ -14,9 +14,7 @@ graphics.o: header.h graphics.h graphics.c
 	gcc -c graphics.c -o graphics.o -lncurses
 
 clean:
-# @ na poczatku linijki oznacza ze nie wyswietlamy komendy
 	@rm -f engine.o graphics.o
-# echo pozwala na wyswietlanie napisow
 	@echo "Usunieto engine.o graphics.o"
 
 .PHONY: all clean

@@ -10,7 +10,9 @@
 ** jak?
    Testy dostarczone wraz z programem (test1.in, test2.in, test3.in, extremetest1.in) spełniają założenia danych wejściowych.
    Kompilacja jest możliwa przez plik make.
-   * make gra *
+   
+   *make gra*
+   
    *./gra ”nazwatestu.in”*
    i gramy!
    

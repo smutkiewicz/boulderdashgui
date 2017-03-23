@@ -2,7 +2,7 @@
 ** co to takiego?
    Komputerowa gra logiczna Boulder Dash z GUI przy użyciu biblioteki ncurses.
 ** wait, what? 
-   Boulder Dash (https://en.wikipedia.org/wiki/Boulder_Dash) to komputerowa gra logiczno-zręcznościowa. 
+   *Boulder Dash* (https://en.wikipedia.org/wiki/Boulder_Dash) to komputerowa gra logiczno-zręcznościowa. 
    Zrealizowałem jej wariant, pozbawiony elementów zręcznościowych.
    
    Format danych wyjściowych: Wynikiem programu jest końcowy, stabilny stan planszy. 
@@ -10,7 +10,8 @@
 ** jak?
    Testy dostarczone wraz z programem (test1.in, test2.in, test3.in, extremetest1.in) spełniają założenia danych wejściowych.
    Kompilacja jest możliwa przez plik make.
-   ./gra ”nazwatestu.in”
+   * make gra
+   *./gra ”nazwatestu.in”*
    i gramy!
    
 ** autor

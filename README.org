@@ -1,4 +1,4 @@
-* Boulder Dash
+# Boulder Dash
 ** co to takiego?
    Komputerowa gra logiczna Boulder Dash z GUI przy użyciu biblioteki ncurses.
 ** wait, what? 
@@ -7,12 +7,12 @@
    
    Format danych wyjściowych: Wynikiem programu jest końcowy, stabilny stan planszy. 
    Wypisujemy go w takim samym formacie, jaki miał stan początkowy na wejściu, po czym wyświetlana jest plansza z napisem „wygrałeś”.
-** jak? **
+** jak?
    Testy dostarczone wraz z programem (test1.in, test2.in, test3.in, extremetest1.in) spełniają założenia danych wejściowych.
    Kompilacja jest możliwa przez plik make.
-   ./gra ”nazwatestu.in”.
-   
+   ./gra ”nazwatestu.in”
    i gramy!
+   
 ** autor
 Michał Smutkiewicz
 
